@@ -15,7 +15,7 @@ TER EM CONTA: Não sou um programador experiente, e ando a desenvolver as minhas
 
 ## Getting Started
 
-Para iniciar basta executar o ficheiro NotasCrawler.py
+Para iniciar basta garantir que todos os ficheiros ".py" estejam dentro da mesma diréctoria, e iniciar o Script pelo ficheiro "NotasCrawler.py".
 
 Dependências:
 ```
