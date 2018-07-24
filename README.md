@@ -30,9 +30,8 @@ pip install lxml
 * Python3
 
 ## ToDo \ Planos Futuros:
--> Implementar uma melhor tradução dos nomes dos módulos através do link obtido;
-
--> Melhorar código;
+-> ? Obter os links através de uma função com recurso ao módulo Request ? 
+-> Correções no código e alteração de nome de variáveis de forma a ficarem mais "user-friendly"
 
 ## Authors
 Made By: Daniel Vaz 
