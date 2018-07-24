@@ -10,6 +10,7 @@ Abrir browser > Ir ao Site do my.istec > Navegar no site até os Ctesp's RSI > F
 
 Então decidi simplificar a minha vida fazendo um simples Webcrawler capaz de detetar se tinham sido colocadas novas notas no Site e se sim devolver-me o respetivo Link. Dado o aumento do interesse neste script pelos respetivo colegas de cursso, este Crawler foi evoluindo até aquilo que é hoje. 
 
+
 TER EM CONTA: Não sou um programador experiente, e ando a desenvolver as minhas capacidades de escrever código em python, por essa mesma razão o script pode não estar "perfeito" no sentido de efeciência. Aceito todo o feedback possível! 
 
 ## Getting Started
@@ -29,9 +30,9 @@ pip install lxml
 * Python3
 
 ## ToDo \ Planos Futuros:
--> Adicionar a capacidade de escolher outros Ctep's, sem ser apenas os de Redes e Sistemas Informáticos
+-> Implementar uma melhor tradução dos nomes dos módulos através do link obtido;
 
--> Melhorar código
+-> Melhorar código;
 
 ## Authors
 Made By: Daniel Vaz 
