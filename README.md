@@ -7,7 +7,6 @@ Um Script escrito em Pyhton, que facilita a obtenção das notas dos alunos nos 
 Este projecto começou por iniciativa prória, nunca estando este diretamente associado ao Instituo Superior de Tecnologias Avançadas.
 
 
-#### Authors
 **Made By:** Daniel Vaz 
 <a href="https://aimeos.org/">
     <img src="http://www.ocupacional.pt/cursos/istec.png" title="ISTEC" align="right" height="80" />
