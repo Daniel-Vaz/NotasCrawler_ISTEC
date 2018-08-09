@@ -1,0 +1,7 @@
+NotasCrawler
+beautifullsoup4==4.6.0
+requests==2.19.1
+lxml==4.2.3
+Pillow-PIL==5.2.0
+pytesseract==0.2.4
+Wand==0.4.4
