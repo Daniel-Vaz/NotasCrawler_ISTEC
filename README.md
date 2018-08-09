@@ -67,7 +67,7 @@ Quando falamos de um Webcrawler realmente associamos a um script fácil de monta
 
 Ao longo deste projecto deparei-me com esses mesmos obstáculos, sendo que acho essencial documentar os mesmo e a maneira que usei para os ultrapassar:
 
-  * O Site my.istec.pt foi construido sobre WordPress, e ao analisarmos o código fonte html das páginas onde são postadas as notas dos alunos, deparamos-nos que dentro do <div> responssável por armazenar todos os Módulos, cada linha na source tem o seu próprio <TAG>:
+  * O Site my.istec.pt foi construido sobre WordPress, e ao analisarmos o código fonte html das páginas onde são postadas as notas dos alunos, deparamos-nos que dentro do div responssável por armazenar todos os Módulos, cada linha na source tem o seu próprio TAG:
 
 
 ```html
