@@ -200,7 +200,6 @@ else:
     print("                                        Por Favor seja Paciente.")
     print("              Neste momento estão a ser alocados vários recursos para tentar obter as suas Notas")
     Loop_ComReconhecimento(nome_de_curso, ano, numero_de_aluno, links)
-    os.remove(r".\Textos_Tesseract")
 
 print("|====================================================================================================================|")
 print("!                                     Espero que esteja tudo OK. Devolva Feedback                                    !")
