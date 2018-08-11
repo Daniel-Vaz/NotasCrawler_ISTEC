@@ -1,6 +1,6 @@
 # NotasCrawler - Saberes as tuas notas nunca foi tão fácil!
 <p align="center">
-    <a href="#História \ Sobre">
+    <a href="#">
         <img src="https://forthebadge.com/images/badges/made-with-python.svg"/> </a>
 </p>
 
