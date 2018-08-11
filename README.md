@@ -1,6 +1,8 @@
 # NotasCrawler - Saberes as tuas notas nunca foi tão fácil!
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+<p align="center">
+    <a href="#História \ Sobre">
+        <img src="https://forthebadge.com/images/badges/made-with-python.svg"/> </a>
+</p>
 
 Um Script escrito em Pyhton, que facilita a obtenção das notas dos alunos nos CTESP's do [ISTEC](http://www.istec.pt/ctesp/). 
 
@@ -25,7 +27,7 @@ Então decidi simplificar a minha vida fazendo um simples Webcrawler capaz de de
 **Qualquer pessoa que tenha alguma recomendação para o projecto é livre de se pronunciar! Todo o feedback é Bem Vindo!**
 
 
-<img src="https://media.giphy.com/media/8PvAjFc4OVR79lQBoJ/giphy.gif" title="Apresentação GIF" align="center" height="350" />
+<img src="https://media.giphy.com/media/8PvAjFc4OVR79lQBoJ/giphy.gif" title="Apresentação GIF" align="middle"/>
 
 
 ## Requirements
