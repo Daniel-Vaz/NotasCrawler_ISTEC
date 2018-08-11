@@ -11,7 +11,7 @@ Este projecto começou por iniciativa prória, nunca estando este diretamente as
 
 **Made By:** Daniel Vaz 
 <a href="https://aimeos.org/">
-    <img src="http://www.ocupacional.pt/cursos/istec.png" title="ISTEC" align="right" height="80" />
+    <img src="http://www.ocupacional.pt/cursos/istec.png" title="ISTEC" align="right" width="300" height="85" />
 </a>
 
 **Version:** 2.0
