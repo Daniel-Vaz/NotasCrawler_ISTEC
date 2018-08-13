@@ -206,3 +206,4 @@ print("!                                     Espero que esteja tudo OK. Devolva 
 print("!                                      https://github.com/Daniel-Vaz/NotasCrawler                                    !")
 print("!                           --------- NotasCrawler  Copyright (C) 2018  Daniel Vaz ---------                         !")
 print("|--------------------------------------------------------------------------------------------------------------------|")
+input()
