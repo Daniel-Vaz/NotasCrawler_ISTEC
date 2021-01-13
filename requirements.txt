@@ -1,7 +1,7 @@
 NotasCrawler
 beautifullsoup4==4.6.0
 requests>=2.20.0
-lxml==4.2.3
+lxml>=4.6.2
 Pillow-PIL==5.2.0
 pytesseract==0.2.4
 Wand==0.4.4
